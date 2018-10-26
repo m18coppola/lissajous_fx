@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="lissalous_fx:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/lissalous_fx_jar</output-path>
+    <root id="archive" name="lissalous_fx.jar">
+      <element id="module-output" name="lissalous_fx" />
+    </root>
+  </artifact>
+</component>
